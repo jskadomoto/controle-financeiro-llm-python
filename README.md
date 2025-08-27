@@ -48,8 +48,8 @@ O **LLM** interpreta o texto, extrai os dados relevantes (**descrição, valor, 
 
 #### 1. Clone o Repositório
 ```bash
-git clone <https://github.com/jskadomoto/controle-financeiro-llm-python.git>
-cd <controle-financeiro-llm-python>
+git clone https://github.com/jskadomoto/controle-financeiro-llm-python.git
+cd controle-financeiro-llm-python
 ```
 
 #### 2. Crie o ambiente virtual
